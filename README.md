@@ -14,7 +14,7 @@ This is a backend API built using Laravel for testing the Skuberg company
 
 ## ER-Diagram
 
-
+![สกรีนช็อต 2025-04-18 131117](https://github.com/user-attachments/assets/c346ec63-928d-4107-b2ee-b569647f6e9e)
 
 ## Installation
 
