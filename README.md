@@ -23,7 +23,11 @@ This is a backend API built using Laravel for testing the Skuberg company
 cd test_backend
 ```
 2. create database name test_backend:
-3. Run the migrations database:
+3. install composer:
+```
+composer install
+```
+4. Run the migrations database:
 ```
 php artisan migrate
 ```
