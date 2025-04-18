@@ -33,7 +33,7 @@ php artisan migrate
 ```
 4. create dummy data:
 ```
-php artisan db:seed --class=Usereeder
+php artisan db:seed --class=UserSeeder
 php artisan db:seed --class=CurrencySeeder
 php artisan db:seed --class=WalletSeeder
 php artisan db:seed --class=OrderSeeder
